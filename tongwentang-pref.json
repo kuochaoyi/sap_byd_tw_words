@@ -1,0 +1,84 @@
+{
+  "filter": {
+    "enabled": true,
+    "rules": [
+      {
+        "id": "4a88d7988b235",
+        "pattern": "help.sap.com",
+        "regexp": null,
+        "target": "s2t"
+      }
+    ]
+  },
+  "general": {
+    "autoConvert": "disabled",
+    "browserAction": "auto",
+    "debugMode": false,
+    "defaultTarget": "s2t",
+    "spaMode": true
+  },
+  "menu": {
+    "enabled": true,
+    "group": {
+      "textarea": {
+        "s2t": true,
+        "t2s": true
+      },
+      "webpage": {
+        "s2t": true,
+        "t2s": true
+      }
+    }
+  },
+  "meta": {
+    "update": 1657954524669
+  },
+  "version": 2,
+  "word": {
+    "custom": {
+      "s2t": {
+        "业务": "商務",
+        "余額": "餘額",
+        "余额": "餘額",
+        "信息": "資訊",
+        "准则": "準則",
+        "准备": "準備",
+        "分类账": "分類帳",
+        "合同": "合約",
+        "向导": "指南",
+        "实施项目": "實作專案",
+        "对象": "物件",
+        "总账": "總帳",
+        "手工": "人工",
+        "日记账": "日記帳",
+        "标准": "標準",
+        "添加": "增加",
+        "激活": "啟用",
+        "结账": "結帳",
+        "统驭": "統制",
+        "缺省": "預設",
+        "范围": "範圍",
+        "賬戶": "帳戶",
+        "账套": "帳簿",
+        "账款": "帳款",
+        "转账": "轉帳",
+        "过账": "過帳",
+        "采购": "採購",
+        "银行组": "銀行群組",
+        "阈值": "門檻",
+        "集成": "整合"
+      },
+      "t2s": {}
+    },
+    "default": {
+      "s2t": {
+        "char": true,
+        "phrase": true
+      },
+      "t2s": {
+        "char": true,
+        "phrase": true
+      }
+    }
+  }
+}
